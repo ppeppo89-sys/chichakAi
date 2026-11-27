@@ -1,0 +1,6 @@
+[project]
+name = "chichak"
+version = "1.0.0"
+description = "Chichak - Bulgarian voice assistant"
+requires-python = ">=3.11"
+dependencies = ["flet"]
